@@ -1,0 +1,12 @@
+,affected_rows
+budget equals zero (review unknown-like values),4443
+revenue equals zero (review unknown-like values),4322
+runtime equals zero,20
+"runtime exceeds 300 minutes (review, not automatic error)",15
+"negative budget, revenue, or runtime",0
+invalid release dates,0
+release year differs from parsed date,0
+ratings outside 0.5-5 or half-point increments,0
+invalid rating dates or timestamps,0
+rating datetime differs from Unix timestamp,0
+TMDB vote_average outside 0-10,0

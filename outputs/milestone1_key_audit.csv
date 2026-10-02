@@ -1,0 +1,7 @@
+table,expected_key,duplicate_keys,missing_key_values
+movies,movieId,0,0
+movies,tmdbId,0,0
+ratings,userId + movieId,0,0
+links,movieId,0,0
+credits,tmdbId,0,0
+keywords,tmdbId,0,0
